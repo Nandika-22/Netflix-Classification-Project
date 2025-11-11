@@ -1,0 +1,26 @@
+🧠 Smart EDA and Outlier Detection
+📊 Project Overview
+
+This project automates the Exploratory Data Analysis (EDA) process and identifies outliers in datasets using the IQR (Interquartile Range) method. It provides quick statistical summaries, visualizations, and insights to help data scientists and analysts understand data distributions, detect anomalies, and make better business decisions.
+
+🧩 Key Features
+
+Automated EDA report generation
+
+Visual insights for numerical and categorical variables
+
+Outlier detection using IQR
+
+Correlation heatmaps for feature relationships
+
+Clean and organized workflow for any dataset
+
+🧠 Skills & Tools Used
+
+Programming: Python
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
+Techniques: EDA, Data Cleaning, Visualization, Correlation Analysis, Outlier Detection (IQR Method)
+
+🎯 Outcome
+
+The Smart EDA system simplifies data understanding by providing a quick summary of data quality, feature relationships, and outlier insights — enabling faster and more informed data-driven decisions.
